@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235256804747",
+    "project_id": "minggu11-authentication",
+    "storage_bucket": "minggu11-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235256804747:android:45e458b3bbcf6cd185eb8e",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235256804747-h77j5ucjq0iqa895q3bhrdhf2hfmfa6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyE9wJFZPrDG-yZlBZHiVV6Tyj2GOiCfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235256804747-h77j5ucjq0iqa895q3bhrdhf2hfmfa6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
